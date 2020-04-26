@@ -1,33 +1,33 @@
 provincia,pais,lat,long,confirmados,muertos,recuperados
-Distrito Nacional,Repulica dominicana,18.4861,-69.983333,1491,37,328
-Azua,Repulica dominicana,18.4531898,-70.7349014,30,1,1
+Distrito Nacional,Repulica dominicana,18.4861,-69.983333,1545,37,357
+Azua,Repulica dominicana,18.4531898,-70.7349014,31,1,1
 Baoruco,Repulica dominicana,18.4813709,-71.4196472,4,0,1
-Barahona,Repulica dominicana,18.25,-71.2166672,35,1,5
+Barahona,Repulica dominicana,18.25,-71.2166672,35,1,6
 Dajabón,Repulica dominicana,19.5487804,-71.7082901,3,0,1
-Duarte,Repulica dominicana,19.1841602,-70.1088409,562,75,76
+Duarte,Repulica dominicana,19.1841602,-70.1088409,587,76,83
 Elías Piña,Repulica dominicana,19.0524685,-71.619868,1,0,0
-El Seibo,Repulica dominicana,18.7644444444,-69.0372222222,4,0,0
+El Seibo,Repulica dominicana,18.7644444444,-69.0372222222,5,0,0
 Espaillat,Repulica dominicana,19.6274796,-70.2777176,186,5,22
 Independencia,Repulica dominicana,18.4916897," -71.8502197",1,0,1
-La Altagracia,Repulica dominicana,18.6501694,-68.6628113,109,1,25
-La Romana,Repulica dominicana,18.42733,-68.972847,105,2,9
-La Vega,Repulica dominicana,19.2220707," -70.5295563",422,7,38
+La Altagracia,Repulica dominicana,18.6501694,-68.6628113,110,1,30
+La Romana,Repulica dominicana,18.42733,-68.972847,107,2,10
+La Vega,Repulica dominicana,19.2220707," -70.5295563",427,7,46
 María Trinidad Sánchez,Repulica dominicana,19.3735,-69.8473969,82,3,5
 Monte Cristi,Repulica dominicana,19.8486111111,-71.6447222222,13,0,2
 Pedernales,Repulica dominicana,18.0383797,-71.7440338,3,0,0
-Peravia,Repulica dominicana,18.2469692,-70.2105331,39,1,4
-Puerto Plata,Repulica dominicana,19.7934399,-70.6884003,192,11,13
-Hermanas Mirabal,Repulica dominicana,19.3743896,-70.3508682,150,11,17
+Peravia,Repulica dominicana,18.2469692,-70.2105331,40,1,6
+Puerto Plata,Repulica dominicana,19.7934399,-70.6884003,193,13,13
+Hermanas Mirabal,Repulica dominicana,19.3743896,-70.3508682,152,11,18
 Samaná,Repulica dominicana,19.2056103,-69.336853,21,1,8
-San Cristóbal,Repulica dominicana,18.4166698,-70.0999985,147,5,6
-San Juan,Repulica dominicana,18.8," -71.2333333",44,3,1
-San Pedro de Macorís,Repulica dominicana,18.4538994,-69.3086395,57,7,9
-Sánchez Ramírez,Repulica dominicana,19.0527191,-70.1493912,139,6,3
-Santiago,Repulica dominicana,19.4517002,-70.6970291,754,44,90
-Santiago Rodríguez,Repulica dominicana,19.4108295,-71.1525726,24,1,0
-Valverde,Repulica dominicana,19.5518608,-71.0781326,32,2,3
-Monseñor Nouel,Repulica dominicana,18.8443108,-70.3168793,164,3,14
-Monte Plata,Repulica dominicana,18.8069992," -69.783989",13,3,0
+San Cristóbal,Repulica dominicana,18.4166698,-70.0999985,156,6,8
+San Juan,Repulica dominicana,18.8," -71.2333333",44,3,2
+San Pedro de Macorís,Repulica dominicana,18.4538994,-69.3086395,58,7,11
+Sánchez Ramírez,Repulica dominicana,19.0527191,-70.1493912,164,6,6
+Santiago,Repulica dominicana,19.4517002,-70.6970291,765,44,92
+Santiago Rodríguez,Repulica dominicana,19.4108295,-71.1525726,25,1,0
+Valverde,Repulica dominicana,19.5518608,-71.0781326,37,2,5
+Monseñor Nouel,Repulica dominicana,18.8443108,-70.3168793,173,3,18
+Monte Plata,Repulica dominicana,18.8069992," -69.783989",15,3,0
 Hato Mayor,Repulica dominicana,18.7666667,-69.3884277,12,2,0
-San José de Ocoa,Repulica dominicana,18.55,-70.5,4,2,0
-Santo Domingo,Repulica dominicana,18.4718609,-69.8923187,1083,39,140
+San José de Ocoa,Repulica dominicana,18.55,-70.5,5,2,0
+Santo Domingo,Repulica dominicana,18.4718609,-69.8923187,1135,40,158
